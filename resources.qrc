@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="MainPic">kvadrobery-kto-eto-prostymi-slovami_17270797641864891358.jpg</file>
+        <file alias="TablePic">screenshot-20240517-000713.png</file>
+        <file alias="black">black.png</file>
+        <file alias="white">whie.png</file>
+    </qresource>
+</RCC>
